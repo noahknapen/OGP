@@ -1,2 +1,15 @@
 .metadata
 eclipse/
+max3/.classpath
+max3/.project
+max3/.settings/
+max3/bin/
+max3/doc/
+square_root/.classpath
+square_root/.project
+square_root/.settings/
+square_root/bin/
+timeofday/.classpath
+timeofday/.project
+timeofday/.settings/
+timeofday/bin/
